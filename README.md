@@ -1,6 +1,6 @@
 # Crisis Early‑Warning Fusion Lab
 
-This repository contains materials for a crisis early‑warning fusion lab. It guides you through building a real‑time early warning system by collecting and fusing multiple data sources: news feeds, structured event data, weather anomalies, and economic indicators. The lab emphasises OSINT tradecraft – intelligence is produced from collecting and analyzing publicly availabl7
+This repository contains materials for a crisis early‑warning fusion lab. It guides you through building a real‑time early warning system by collecting and fusing multiple data sources: news feeds, structured event data, weather anomalies, and economic indicators. The lab emphasises OSINT tradecraft – intelligence is produced from collecting and analyzing publicly available
 
 ## Overview
 
