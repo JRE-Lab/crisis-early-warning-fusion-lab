@@ -1,0 +1,22 @@
+diff --git a/data/sample_econ.json b/data/sample_econ.json
+new file mode 100644
+index 0000000000000000000000000000000000000000..83bb95c50558d935da30d47eea760ecc69d50c8e
+--- /dev/null
++++ b/data/sample_econ.json
+@@ -0,0 +1,16 @@
++[
++  {
++    "location": "Capital District",
++    "date": "2024-05-16T00:00:00Z",
++    "summary": "Inflation accelerates to 18% year-on-year, driven by food prices.",
++    "severity": 3,
++    "inflation_rate": 18
++  },
++  {
++    "location": "Coastal Province",
++    "date": "2024-05-12T00:00:00Z",
++    "summary": "Currency reserves fall below two months of import cover.",
++    "severity": 2,
++    "reserve_months": 1.8
++  }
++]
