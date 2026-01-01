@@ -1,0 +1,22 @@
+diff --git a/data/sample_news.json b/data/sample_news.json
+new file mode 100644
+index 0000000000000000000000000000000000000000..fbc9548248af4b56bce69702588419fa79037e4a
+--- /dev/null
++++ b/data/sample_news.json
+@@ -0,0 +1,16 @@
++[
++  {
++    "location": "Coastal Province",
++    "date": "2024-05-15T08:00:00Z",
++    "summary": "Student groups announce a coordinated march over fuel price hikes.",
++    "severity": 2,
++    "source": "Regional press"
++  },
++  {
++    "location": "Capital District",
++    "date": "2024-05-18T10:30:00Z",
++    "summary": "Local leaders call for a general strike after corruption allegations.",
++    "severity": 3,
++    "source": "Independent outlet"
++  }
++]
