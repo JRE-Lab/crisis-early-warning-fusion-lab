@@ -1,0 +1,22 @@
+diff --git a/data/sample_weather.json b/data/sample_weather.json
+new file mode 100644
+index 0000000000000000000000000000000000000000..855405a62034993a5de0da7140c169fc3a59ee13
+--- /dev/null
++++ b/data/sample_weather.json
+@@ -0,0 +1,16 @@
++[
++  {
++    "location": "Northern Corridor",
++    "date": "2024-05-14T00:00:00Z",
++    "summary": "Rainfall deficit reaches 45% below seasonal average.",
++    "severity": 3,
++    "rainfall_deficit_pct": 45
++  },
++  {
++    "location": "Agricultural Belt",
++    "date": "2024-05-20T00:00:00Z",
++    "summary": "Heatwave warning issued for sustained temperatures above 40C.",
++    "severity": 2,
++    "temperature_c": 41
++  }
++]
